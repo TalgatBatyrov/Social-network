@@ -1,0 +1,26 @@
+.navbar {
+    background-color: #5584AC;
+    grid-area: navbar;
+    padding: 10px 20px;
+    line-height: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.navbar div:last-child{
+    margin-top: 30px;
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+}
+
+.item a:hover{
+    color: rgba(255, 255, 255, 0.575);
+}
+
+.item .active {
+    color: gold;
+    text-decoration: underline;
+}

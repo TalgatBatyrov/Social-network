@@ -1,0 +1,11 @@
+.header {
+    background-color: #95D1CC;
+    grid-area: header;
+    /* padding: 10px; */
+    border-radius: 5px;
+}
+
+.header img{
+    width: 70px;
+    height: 100%;
+}
